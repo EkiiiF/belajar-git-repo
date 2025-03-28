@@ -1,0 +1,22 @@
+1. buka git bash
+2. pwd untuk mengetahui lokasi saat ini
+3. ls untuk melihat isi folder
+4. cd nama_folder untuk berpindah ke folder yang diinginkan 
+5. cd .. untuk kembali ke folder sebelumnya
+6. git init untuk membuat master branch pada folder yang sedang diakses
+7. mkdir nama_folder untuk membuat folder baru 
+8. git add nama_file... untuk menambahkan 1 file ke dalam repository
+9. atau git add . untuk menambahkan semua file ke dalam repository
+10. git commit -m "pesan commit" untuk mengirimkan pesan perubahan
+11. setelah di commit akan dibuatkan hash
+12. git status untuk melihat status repository (sudah di commit atau belum)
+13. git commit -a -m / git commit -am "pesan commit" untuk mengirimkan pesan perubahan dan menambahkan semua file yang telah diubah ke dalam repository
+14. git log untuk melihat riwayat perubahan repository
+15. atau git log --oneline untuk melihat riwayat perubahan repository dalam bentuk ringkas
+16. atau git log --all untuk melihat riwayat perubahan repository termasuk branch
+17. git log --3 --oneline untuk melihat riwayat perubahan repository dalam bentuk ringkas dengan 3 baris 
+18. git branch -a untuk melihat semua branch yang ada
+19. git branch nama_branch untuk membuat branch baru
+20. git checkout nama_branch untuk berpindah ke branch yang diinginkan
+21. git log --all --decorate --oneline --graph untuk melihat keseluruhan
+22. 
