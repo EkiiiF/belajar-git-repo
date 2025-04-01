@@ -22,3 +22,4 @@
 22. git merge digunakan untuk menggabungkan branch yang telah diubah ke dalam branch utama (master)
 23. alias graph="git log --all --decorate --oneline --graph" untuk membuat shortcut alias graph, berlaku untuk 1 sesi saja
 24. git branch -d nama_branch untuk menghapus branch yang tidak digunakan lagi
+25. git branch -M main untuk merubah nama branch "master" dari master menjadi "main"
