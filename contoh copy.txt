@@ -19,4 +19,4 @@
 19. git branch nama_branch untuk membuat branch baru
 20. git checkout nama_branch untuk berpindah ke branch yang diinginkan
 21. git log --all --decorate --oneline --graph untuk melihat keseluruhan
-22. 
+22. git merge digunakan untuk menggabungkan branch yang telah diubah ke dalam branch utama (master)
